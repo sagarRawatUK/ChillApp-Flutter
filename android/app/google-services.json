@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222354372429",
+    "project_id": "chillapp-56040",
+    "storage_bucket": "chillapp-56040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222354372429:android:f4d78dceaaa384d7ad2904",
+        "android_client_info": {
+          "package_name": "com.example.ChillApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222354372429-ivbgj844dvhkebpmhhu7suoutt5vqkie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ChillApp",
+            "certificate_hash": "53e8655dc21e56372e871ec7b42dd1f053db82ba"
+          }
+        },
+        {
+          "client_id": "222354372429-arjhqg85v258829k6kdo9u7del1r9edr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQxf9qxaNt5lisB6HE7EHZcN_XpFJFoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222354372429-arjhqg85v258829k6kdo9u7del1r9edr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
